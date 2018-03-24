@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
-    <system systemId="http://localhost:8080/WebApplication1/H?wsdl" uri="xml-resources/web-service-references/H/wsdl/localhost_8080/WebApplication1/H.wsdl"/>
-    <system systemId="http://localhost:8080/WebApplication1/H?xsd=1" uri="xml-resources/web-service-references/H/wsdl/localhost_8080/WebApplication1/H.xsd_1.xsd"/>
-    <system systemId="http://localhost:8080/WebApplication1/HelloWSService?wsdl" uri="xml-resources/web-service-references/HelloWSService/wsdl/localhost_8080/WebApplication1/HelloWSService.wsdl"/>
-    <system systemId="http://localhost:8080/WebApplication1/HelloWSService?xsd=1" uri="xml-resources/web-service-references/HelloWSService/wsdl/localhost_8080/WebApplication1/HelloWSService.xsd_1.xsd"/>
-</catalog>
